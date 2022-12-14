@@ -23,6 +23,8 @@ namespace Infrastructure
             AssetBundleService = new AssetBundleService();
             _curtain.Construct(AssetBundleService);
             SaveLoadService = new SaveLoadService();
+            Music.Construct(SaveLoadService.Data.MusicVolume);
+            Sound.Construct(SaveLoadService.Data.SondVolume);
         }
     }
 }
