@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1666155970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49b5c594c47b987f55d4be7883641289
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf9e172e9e0bd8910ca748ed8b246d5f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/Lady.png
+- Assets/Sprites/Jack.png
+- Assets/Audio/Corporate-Business.mp3
+- Assets/Sprites/King.png
+Dependencies: []
